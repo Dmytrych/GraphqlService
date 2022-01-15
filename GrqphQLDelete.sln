@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrqphQLDelete", "GrqphQLDelete\GrqphQLDelete.csproj", "{716DAE32-B981-4526-A7BC-AFF0C9DE87C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWars", "..\..\Desktop\Repos\StarWars\StarWars.csproj", "{1E318FEE-9F64-4CA6-9169-57385CF986F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWars", "..\examples\src\StarWars\StarWars.csproj", "{69B9ABD3-5EA0-45D8-8F4C-C64FD7B755CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphqlLab", "GraphqlLab\GraphqlLab.csproj", "{5F13CAC5-09CE-4FBF-B25B-79670FCAF27D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lib", "lib\lib.csproj", "{81A686DC-970B-4563-AA35-7C0458399689}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{716DAE32-B981-4526-A7BC-AFF0C9DE87C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{716DAE32-B981-4526-A7BC-AFF0C9DE87C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{716DAE32-B981-4526-A7BC-AFF0C9DE87C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{716DAE32-B981-4526-A7BC-AFF0C9DE87C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E318FEE-9F64-4CA6-9169-57385CF986F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E318FEE-9F64-4CA6-9169-57385CF986F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E318FEE-9F64-4CA6-9169-57385CF986F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E318FEE-9F64-4CA6-9169-57385CF986F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69B9ABD3-5EA0-45D8-8F4C-C64FD7B755CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69B9ABD3-5EA0-45D8-8F4C-C64FD7B755CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69B9ABD3-5EA0-45D8-8F4C-C64FD7B755CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69B9ABD3-5EA0-45D8-8F4C-C64FD7B755CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F13CAC5-09CE-4FBF-B25B-79670FCAF27D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F13CAC5-09CE-4FBF-B25B-79670FCAF27D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F13CAC5-09CE-4FBF-B25B-79670FCAF27D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F13CAC5-09CE-4FBF-B25B-79670FCAF27D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81A686DC-970B-4563-AA35-7C0458399689}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81A686DC-970B-4563-AA35-7C0458399689}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81A686DC-970B-4563-AA35-7C0458399689}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81A686DC-970B-4563-AA35-7C0458399689}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

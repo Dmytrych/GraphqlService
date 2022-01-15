@@ -1,0 +1,28 @@
+C:\Users\1\RiderProjects\GrqphQLDelete\GrqphQLDelete\bin\Debug\netcoreapp3.1\GrqphQLDelete.exe
+C:\Users\1\RiderProjects\GrqphQLDelete\GrqphQLDelete\bin\Debug\netcoreapp3.1\GrqphQLDelete.deps.json
+C:\Users\1\RiderProjects\GrqphQLDelete\GrqphQLDelete\bin\Debug\netcoreapp3.1\GrqphQLDelete.runtimeconfig.json
+C:\Users\1\RiderProjects\GrqphQLDelete\GrqphQLDelete\bin\Debug\netcoreapp3.1\GrqphQLDelete.runtimeconfig.dev.json
+C:\Users\1\RiderProjects\GrqphQLDelete\GrqphQLDelete\bin\Debug\netcoreapp3.1\GrqphQLDelete.dll
+C:\Users\1\RiderProjects\GrqphQLDelete\GrqphQLDelete\bin\Debug\netcoreapp3.1\GrqphQLDelete.pdb
+C:\Users\1\RiderProjects\GrqphQLDelete\GrqphQLDelete\bin\Debug\netcoreapp3.1\GraphQL.dll
+C:\Users\1\RiderProjects\GrqphQLDelete\GrqphQLDelete\bin\Debug\netcoreapp3.1\GraphQL-Parser.dll
+C:\Users\1\RiderProjects\GrqphQLDelete\GrqphQLDelete\bin\Debug\netcoreapp3.1\GraphQL.SystemTextJson.dll
+C:\Users\1\RiderProjects\GrqphQLDelete\GrqphQLDelete\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\1\RiderProjects\GrqphQLDelete\GrqphQLDelete\obj\Debug\netcoreapp3.1\GrqphQLDelete.csproj.AssemblyReference.cache
+C:\Users\1\RiderProjects\GrqphQLDelete\GrqphQLDelete\obj\Debug\netcoreapp3.1\GrqphQLDelete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\RiderProjects\GrqphQLDelete\GrqphQLDelete\obj\Debug\netcoreapp3.1\GrqphQLDelete.AssemblyInfoInputs.cache
+C:\Users\1\RiderProjects\GrqphQLDelete\GrqphQLDelete\obj\Debug\netcoreapp3.1\GrqphQLDelete.AssemblyInfo.cs
+C:\Users\1\RiderProjects\GrqphQLDelete\GrqphQLDelete\obj\Debug\netcoreapp3.1\GrqphQLDelete.csproj.CoreCompileInputs.cache
+C:\Users\1\RiderProjects\GrqphQLDelete\GrqphQLDelete\obj\Debug\netcoreapp3.1\GrqphQLDelete.csproj.CopyComplete
+C:\Users\1\RiderProjects\GrqphQLDelete\GrqphQLDelete\obj\Debug\netcoreapp3.1\GrqphQLDelete.dll
+C:\Users\1\RiderProjects\GrqphQLDelete\GrqphQLDelete\obj\Debug\netcoreapp3.1\GrqphQLDelete.pdb
+C:\Users\1\RiderProjects\GrqphQLDelete\GrqphQLDelete\obj\Debug\netcoreapp3.1\GrqphQLDelete.genruntimeconfig.cache
+C:\Users\Lampa\Desktop\GraphQL Lab\GrqphQLDelete\bin\Debug\netcoreapp3.1\GrqphQLDelete.deps.json
+C:\Users\Lampa\Desktop\GraphQL Lab\GrqphQLDelete\bin\Debug\netcoreapp3.1\GrqphQLDelete.dll
+C:\Users\Lampa\Desktop\GraphQL Lab\GrqphQLDelete\bin\Debug\netcoreapp3.1\GrqphQLDelete.pdb
+C:\Users\Lampa\Desktop\GraphQL Lab\GrqphQLDelete\obj\Debug\netcoreapp3.1\GrqphQLDelete.csprojAssemblyReference.cache
+C:\Users\Lampa\Desktop\GraphQL Lab\GrqphQLDelete\obj\Debug\netcoreapp3.1\GrqphQLDelete.AssemblyInfoInputs.cache
+C:\Users\Lampa\Desktop\GraphQL Lab\GrqphQLDelete\obj\Debug\netcoreapp3.1\GrqphQLDelete.AssemblyInfo.cs
+C:\Users\Lampa\Desktop\GraphQL Lab\GrqphQLDelete\obj\Debug\netcoreapp3.1\GrqphQLDelete.csproj.CoreCompileInputs.cache
+C:\Users\Lampa\Desktop\GraphQL Lab\GrqphQLDelete\obj\Debug\netcoreapp3.1\GrqphQLDelete.dll
+C:\Users\Lampa\Desktop\GraphQL Lab\GrqphQLDelete\obj\Debug\netcoreapp3.1\GrqphQLDelete.pdb
